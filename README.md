@@ -69,7 +69,7 @@ _*Descripcion_
 
 _*Denominacion_
 
-## Autores ✒️
+## Integrantes:️
 _Vreys Michael_ 
 
 _Cordoba Juan_ 

@@ -20,15 +20,11 @@ script01.sql
 ```
 
 
-
 ```
 
 script02.sql
 
 ```
-
-
-
 ```
 script03.sql
 
@@ -43,13 +39,9 @@ Configurar los atributos de Conexion de la Clase "conexion" y ademas agregar el 
 
 
 
-### Estructura y funcionalidad 
+### Estructura y funcionalidad🚀
 
-🚀
-
-_Este CRUD tiene una estructura formada por tres modulos:
-
-_
+_Este CRUD tiene una estructura formada por tres modulos:_
 
 _-Principal.java:_ 
 

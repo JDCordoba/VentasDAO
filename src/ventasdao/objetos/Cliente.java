@@ -15,14 +15,16 @@ public class Cliente {
     private String documento;
     private String nombre;
     private String apellido;
+   private TipoCliente tipocliente;
 
-    public String getCuil() {
-        return documento;
+    public TipoCliente getTipocliente() {
+        return tipocliente;
+   
+    }
+    public void setTipocliente(TipoCliente tipocliente) {
+        this.tipocliente = tipocliente;
     }
 
-    public void setCuil(String cuil) {
-        this.documento = cuil;
-    }
 
 
 
@@ -59,5 +61,4 @@ public class Cliente {
     }
 
  
-    
 }

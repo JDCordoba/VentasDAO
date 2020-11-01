@@ -7,7 +7,7 @@ package ventasdao.objetos;
 
 /**
  *
- * @author JuanDC
+ * @author Juan
  */
 public class TipoCliente {
     private Integer id;
